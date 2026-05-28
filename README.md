@@ -63,3 +63,14 @@ evaluate.py                   evaluation entry point
 interpret_attention.py         exports attention/gate weights
 scripts/prepare_dummy_data.py  small toy dataset generator
 ```
+
+## Requirements
+
+```text
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+tqdm>=4.66
+```
