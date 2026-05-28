@@ -1,0 +1,11 @@
+CA125
+CEA
+CA19_9
+Prolactin
+HGF
+OPN
+Myeloperoxidase
+TIMP_1
+OmegaScore
+Age
+Sex
